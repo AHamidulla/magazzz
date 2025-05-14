@@ -1,0 +1,345 @@
+.anim.h1-head {
+    transform: translateY(-40%);
+    transition: all 1.5s;
+    opacity: 0;
+}
+.anim.h1-head.active {
+    transform: translateY(0);
+    opacity: 1;
+}
+.anim.header2 {
+    transform: translateY(40%);
+    transition: all 1.5s;
+    opacity: 0;
+}
+.anim.header2.active {
+    transform: translateY(0);
+    opacity: 1;
+}
+
+.anim.hh-h1 {
+    transform: translateX(-30%);
+    transition: all 1.5s;
+    opacity: 0;
+}
+.anim.hh-h1.active {
+    transform: translateX(0);
+    opacity: 1;
+}
+.anim.content-1 {
+    transform: translateY(10%);
+    transition: all .3s;
+    opacity: 0;
+}
+.anim.content-1.active {
+    transform: translateY(0);
+    opacity: 1;
+}
+.anim.content-2 {
+    transform: translateY(10%);
+    transition: all .7s;
+    opacity: 0;
+}
+.anim.content-2.active {
+    transform: translateY(0);
+    opacity: 1;
+}
+.anim.content-3 {
+    transform: translateY(10%);
+    transition: all 1.3s;
+    opacity: 0;
+}
+.anim.content-3.active {
+    transform: translateY(0);
+    opacity: 1;
+}
+.anim.content-4 {
+    transform: translateY(10%);
+    transition: all 1.9s;
+    opacity: 0;
+}
+.anim.content-4.active {
+    transform: translateY(0);
+    opacity: 1;
+}
+.anim.content-5 {
+    transform: translateY(10%);
+    transition: all 2.5s;
+    opacity: 0;
+}
+.anim.content-5.active {
+    transform: translateY(0);
+    opacity: 1;
+}
+
+
+.anim.shop-1 {
+    scale: .9;
+    opacity: 0;
+    transition: all .7s;
+}
+.anim.shop-1.active {
+    scale: 1;
+    opacity: 1;
+
+}
+.anim.shop-block {
+    scale: .9;
+    opacity: 0;
+    transition: all .7s;
+}
+.anim.shop-block.active {
+    scale: 1;
+    opacity: 1;
+
+}
+
+
+.anim.part-1 {
+    transform: translateX(-20%);
+    transition: all 1.5s;
+    opacity: 0;
+}
+.anim.part-1.active {
+    transform: translateX(0);
+    opacity: 1;
+}
+.anim.part-2 {
+    transform: translateX(20%);
+    transition: all 1.5s;
+    opacity: 0;
+}
+.anim.part-2.active {
+    transform: translateX(0);
+    opacity: 1;
+}
+
+
+.anim.ul-1 {
+    transform: translateY(20%);
+    transition: all 1.5s;
+    opacity: 0;
+}
+.anim.ul-1.active {
+    transform: translateY(0);
+    opacity: 1;
+}
+.anim.ul-2 {
+    transform: translateY(-20%);
+    transition: all 1.5s;
+    opacity: 0;
+}
+.anim.ul-2.active {
+    transform: translateY(0);
+    opacity: 1;
+}
+.anim.ul-3 {
+    transform: translateY(20%);
+    transition: all 1.5s;
+    opacity: 0;
+}
+.anim.ul-3.active {
+    transform: translateY(0);
+    opacity: 1;
+}
+.anim.ul-4 {
+    transform: translateY(-20%);
+    transition: all 1.5s;
+    opacity: 0;
+}
+.anim.ul-4.active {
+    transform: translateY(0);
+    opacity: 1;
+}
+
+
+.anim.h1-email {
+    transform: translateX(100%);
+    transition: all 1.5s;
+}
+.anim.h1-email.active {
+    transform: translateX(0);
+}
+.anim.p-email {
+    transform: translateX(-100%);
+    transition: all 1.5s;
+}
+.anim.p-email.active {
+    transform: translateX(0);
+}
+
+.anim.inp-email {
+    transform: translateX(100%);
+    transition: all 1.5s;
+}
+.anim.inp-email.active {
+    transform: translateX(0);
+}
+
+
+
+
+.anim.keys-img.a {
+    transform: translateY(10%);
+    scale: 1.1;
+    transition: all 1.5s;
+}
+.anim.keys-img.a.active {
+    transform: translateY(0);
+    scale: 1;
+}
+.anim.keys-img.s {
+    transform: translateY(10%);
+        scale: 1.1;
+
+    transition: all 1.5s;
+}
+.anim.keys-img.s.active {
+    transform: translateY(0);
+        scale: 1;
+
+    
+}
+.anim.keys-img.d {
+    transform: translateY(10%);
+        scale: 1.1;
+
+    transition: all 1.5s;
+}
+.anim.keys-img.d.active {
+    transform: translateY(0);
+        scale: 1;
+
+    
+}
+.anim.keys-img.f {
+    transform: translateY(10%);
+        scale: 1.1;
+
+    transition: all 1.5s;
+}
+.anim.keys-img.f.active {
+    transform: translateY(0);
+        scale: 1;
+
+    
+}
+.anim.keys-img.g {
+    transform: translateY(10%);
+        scale: 1.2;
+
+    transition: all 1.5s;
+}
+.anim.keys-img.g.active {
+    transform: translateY(0);
+        scale: 1;
+
+    
+}
+.anim.keys-img.h {
+    transform: translateY(10%);
+        scale: 1.1;
+
+    transition: all 1.5s;
+}
+.anim.keys-img.h.active {
+    transform: translateY(0);
+        scale: 1;
+
+    
+}
+.anim.keys-img.j {
+    transform: translateY(10%);
+        scale: 1.1;
+
+    transition: all 1.5s;
+}
+.anim.keys-img.j.active {
+    transform: translateY(0);
+        scale: 1;
+
+    
+}
+.anim.keys-img.k {
+    transform: translateY(10%);
+    scale: 1.1;
+
+    transition: all 1.5s;
+}
+.anim.keys-img.k.active {
+    transform: translateY(0);
+        scale: 1;
+
+    
+}
+
+.anim.username {
+    transform: translateX(-50%);
+    opacity: 0;
+    transition: all 1.5s;
+}
+.anim.username.active {
+    transform: translateX(0);
+    opacity: 1;
+}
+.anim.email {
+    transform: translateX(50%);
+    opacity: 0;
+    transition: all 1.5s;
+}
+.anim.email.active {
+    transform: translateX(0);
+    opacity: 1;
+}
+.anim.password {
+    transform: translateX(-50%);
+    opacity: 0;
+    transition: all 1.5s;
+}
+.anim.password.active {
+    transform: translateX(0);
+    opacity: 1;
+}
+
+.anim.us {
+    scale: .5;
+    transition: all 1.5s;
+}
+.anim.us.active {
+    scale: 1;
+}
+.anim.em {
+    scale: .5;
+    transition: all 1.5s;
+}
+.anim.em.active {
+    scale: 1;
+}
+.anim.pa {
+    scale: .5;
+    transition: all 1.5s;
+}
+.anim.pa.active {
+    scale: 1;
+}
+
+.anim.submit-btn {
+    transform: translateY(100%);
+    opacity: 0;
+    transition: all 1.5s;
+}
+.anim.submit-btn.active {
+    transform: translateY(0);
+    opacity: 1;
+}
+
+.anim.h11 {
+    opacity: 0;
+    scale: .6;
+    transition: all 1.5s;
+}
+.anim.h11.active {
+    opacity: 1;
+    scale: 1;
+}
+
